@@ -1,0 +1,656 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dissertation concerning the pre-existency of souls wherein the state of the question is briefly unfolded, and divers arguments and objections on both sides alledged and answered : and a free judgment concerning the summ of the controversie allowed to every one / being originally written in the Latine tongue, several years since by the learned C.P. ; and now made English by D.F. [and] D.P. upon the recommendation of F.M.H., their friend.</title>
+            <author>C.P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53891</idno>
+            <idno type="STC">Wing P10</idno>
+            <idno type="STC">ESTC R5799</idno>
+            <idno type="EEBO-CITATION">12416502</idno>
+            <idno type="OCLC">ocm 12416502</idno>
+            <idno type="VID">61675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53891)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61675)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 285:7 or 2093:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dissertation concerning the pre-existency of souls wherein the state of the question is briefly unfolded, and divers arguments and objections on both sides alledged and answered : and a free judgment concerning the summ of the controversie allowed to every one / being originally written in the Latine tongue, several years since by the learned C.P. ; and now made English by D.F. [and] D.P. upon the recommendation of F.M.H., their friend.</title>
+                  <author>C.P.</author>
+                  <author>D. F.</author>
+                  <author>D. P.</author>
+               </titleStmt>
+               <extent>[10], 131 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wickins ... and Rob. Kettlewell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Epistle dedicatory" signed: D.F.</note>
+                  <note>Reproduction of originals in Huntington Library and Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soul.</term>
+               <term>Pre-existence.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61675:1"/>
+            <pb facs="tcp:61675:1" rendition="simple:additions"/>
+            <p>A DISSERTATION Concerning the <hi>Pre-exiſtency of Souls:</hi> Wherein The ſtate of the Queſtion is briefly unfolded, and divers Arguments and Objections on both ſides Alledged and Anſwered;</p>
+            <p>AND A free judgment concerning the Summ of the Controverſie allow<g ref="char:EOLhyphen"/>ed to every one.</p>
+            <p>Being Originally written in the Latine Tongue, ſeveral years ſince, by the Learned <hi>C.P.</hi> and now made Engliſh by <hi>D. F. D. P.</hi> upon the recommenda<g ref="char:EOLhyphen"/>tion of <hi>F. M. H.</hi> their Friend.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Wickins,</hi> at the <hi>White Hart,</hi> and <hi>Rob. Kettlewell,</hi> at the <hi>Hand</hi> and <hi>Scepter,</hi> over againſt St. <hi>Dunſtans</hi> Church in <hi>Fleetſtreet.</hi> 1684.</p>
+         </div>
+         <div type="author_to_his_friend">
+            <pb facs="tcp:61675:2"/>
+            <pb facs="tcp:61675:2"/>
+            <head>To his Friend THOMAS MARTYN OF PUTNEY, Eſq</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BOth your ſelf and every Reader will readily con<g ref="char:EOLhyphen"/>clude that I much wan<g ref="char:EOLhyphen"/>ted an opportunity of gratitude, to ſnatch thus
+<pb facs="tcp:61675:3"/>at ſo little a one to make you a Preſent. How<g ref="char:EOLhyphen"/>ever let the Zeal and Sincerity of being grate<g ref="char:EOLhyphen"/>ful, cover the uncomeli<g ref="char:EOLhyphen"/>neſs of diſproportion in the Offer. The great Eaſtern Conqueror gave like himſelf, but accep<g ref="char:EOLhyphen"/>ted from Inferiours like themſelves. And a greater than he, declared a poor Mite to exceed the weightier gifts of the Opulent. But, Sir,
+<pb facs="tcp:61675:3"/>you are not to be taught how to be generous, for you wear a mind too big, than to refuſe the ſmalleſt acknowledg<g ref="char:EOLhyphen"/>ment, and it would be an injury (eſpecially in me) to ſuſpect you can<g ref="char:EOLhyphen"/>not ſtoop thus low. I wiſh I could as well excuſe the quality of the thing: It is, <hi>viz.</hi> a Paradox, and a Tran<g ref="char:EOLhyphen"/>ſlate too, and that per<g ref="char:EOLhyphen"/>haps done badly enough.
+<pb facs="tcp:61675:4"/>Can any extenuation bring it nearer to a Nothing? But I could wiſh that were all, or the worſt of it. There is a Neſt in the World filled with li<g ref="char:EOLhyphen"/>ving things (which call themſelves Orthodox) that have Stings and Anger; if theſe take of<g ref="char:EOLhyphen"/>fence, what will become of you? its no matter how they uſe me. But I forget, Your dexteri<g ref="char:EOLhyphen"/>ty is great in this my<g ref="char:EOLhyphen"/>ſtery
+<pb facs="tcp:61675:4"/>of defence: And I am ſafe, if you pleaſe to take my part for un<g ref="char:EOLhyphen"/>der your <g ref="char:V">Ʋ</g>mbrage, I dare defie all the Waſps in the World, there<g ref="char:EOLhyphen"/>fore, good Sir, protect</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend, and Servant wholly,</hi> &amp;c. D. F.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="half_title">
+            <pb facs="tcp:61675:5"/>
+            <pb facs="tcp:61675:5"/>
+            <p>THE PRAEEXISTENCY OF SOULS Aſſerted,
+<list>
+                  <item>Firſt, <hi>By an expoſition of the Hy<g ref="char:EOLhyphen"/>potheſis it ſelf.</hi>
+                  </item>
+                  <item>Secondly, <hi>By a confirmation of the Hypotheſis; which is deri<g ref="char:EOLhyphen"/>ved partly from Reaſon, and partly from allegations of Autho<g ref="char:EOLhyphen"/>rity and Teſtimony.</hi>
+                  </item>
+                  <item>Thirdly, <hi>by a refutation of contra<g ref="char:EOLhyphen"/>ry arguments.</hi>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div n="1" type="part">
+            <pb facs="tcp:61675:6"/>
+            <pb n="1" facs="tcp:61675:6"/>
+            <head>Part I. <hi>Being Confirmatory.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Propounding the Hypo<g ref="char:EOLhyphen"/>theſis it ſelf.</hi>
+               </head>
+               <p>THe Hypotheſis of the Praeexiſtency of Souls is chiefly comprehended in the following Poſitions.</p>
+               <pb n="2" facs="tcp:61675:7"/>
+               <p n="1">1. All humane ſouls have, in the univerſal Creation, flowed out from God.</p>
+               <p n="2">2. A humane Soul is of its own nature, a Spirit, but of an heterogeneous eſſence, whoſe parts are a vital Center, and Rayes or Beams of a ſecondary ſub<g ref="char:EOLhyphen"/>ſtance; in the former is ſeat<g ref="char:EOLhyphen"/>ed the ſuperiour faculty of Reaſon and Senſe; in the latter is placed the inferiour plaſtick or propagating Fa<g ref="char:EOLhyphen"/>culty, which is the Throne of a threefold vital aptitude, in a threefold vehicle.</p>
+               <pb n="3" facs="tcp:61675:7"/>
+               <p n="3">3. The Soul from the ve<g ref="char:EOLhyphen"/>ry firſt moment of its Crea<g ref="char:EOLhyphen"/>tion was united vitally with matter, yet in a ſtate or con<g ref="char:EOLhyphen"/>dition very glorious.</p>
+               <p n="4">4. Souls becoming ſated or glutted with the long en<g ref="char:EOLhyphen"/>joyment and uſe of Aethereal Heavenly felicity and joys, which conſiſt in the con<g ref="char:EOLhyphen"/>templation and Love of the ſupream Good, began ſomewhat more cloſely to conſider their material ve<g ref="char:EOLhyphen"/>hicles, and becoming de<g ref="char:EOLhyphen"/>lighted with the delicacies thereof, did at firſt in a due
+<pb n="4" facs="tcp:61675:8"/>proportion, and with a le<g ref="char:EOLhyphen"/>gitimate and allowed mea<g ref="char:EOLhyphen"/>ſure enjoy and uſe with plea<g ref="char:EOLhyphen"/>ſure unutterable, the ſofter and more curiouſly ſweet emotions of them.</p>
+               <p n="5">5. But after that, they falling into an immoderate Love and admiration of them, <hi>viz.</hi> through a too looſe deſire and unbridled appetite, they wholly plun<g ref="char:EOLhyphen"/>ged themſelves into the luſt<g ref="char:EOLhyphen"/>ful delights of them, in this regard leaping over the bounds of true temperance, whence afterwards their mi<g ref="char:EOLhyphen"/>ſery ſprang forth and en<g ref="char:EOLhyphen"/>ſued.</p>
+               <pb n="5" facs="tcp:61675:8"/>
+               <p n="6">6. For by reaſon of this immoderate uſe of their ma<g ref="char:EOLhyphen"/>terial vehicles, 1. They fell from their primaeval glory, into an inferiour and leſs happy ſtate or condition. 2. Their Eſſence being at firſt immaculate and undefi<g ref="char:EOLhyphen"/>led, but through the Love and contrectation, or uſe of impure pleaſures being mi<g ref="char:EOLhyphen"/>ſerably infected, their Na<g ref="char:EOLhyphen"/>ture became affected, or ſeiſed with an inxpreſſible intemperance. 3. Their vi<g ref="char:EOLhyphen"/>tal aptitude unto their for<g ref="char:EOLhyphen"/>merly moſt pure vehicles became diminiſhed. 4. Their
+<pb n="6" facs="tcp:61675:9"/>moſt flouriſhing vivid Rea<g ref="char:EOLhyphen"/>ſon became limited, bound<g ref="char:EOLhyphen"/>ed, and ſtupefied, and, 5. They themſelves became manifeſt<g ref="char:EOLhyphen"/>ly unfit to continue longer in an Aethereal heavenly life, whence they were forced out in the very act, to relinquiſh their firſt habitation.</p>
+               <p n="7">7. Deſcending therefore downwards, they began to make tryal of a more vile matter, out of which they would frame to themſelves vehicles more agreeable to their now polluted Eſſences; and at length arrived lower into the Atmoſphere of this
+<pb n="7" facs="tcp:61675:9"/>Earthly Globe, where ſtill degenerating more and more, and being now de<g ref="char:EOLhyphen"/>lighted only with ſenſual pleaſures, after ſome time ſpent, they utterly loſt all uſe of Reaſon; and preſently after, of ſenſe alſo; ſo that at length they fell as it were aſleep, and into a ſtate of ſilence or reſt.</p>
+               <p n="8">8. Then their plaſtick or propagating Faculty only re<g ref="char:EOLhyphen"/>mained in its Vigour, with which the Spirit of Nature eminently conſpired, who, upon every occaſion of mat<g ref="char:EOLhyphen"/>ter aptly prepared being
+<pb n="8" facs="tcp:61675:10"/>given, admits and puts them into theſe earthly bodies, they being firſt united with ſeminal matter, and after that becoming inhabitants of a body duely Organized, as in their Priſon and Grave.</p>
+               <p n="9">9. Now this detruſion, or being thruſt into theſe earthly vehicles, happens to them upon a double account: Firſt, that they might be duely puniſhed for ſuch faults as they had committed in the ſtate of Praeexiſten<g ref="char:EOLhyphen"/>cy, and then, that notwith<g ref="char:EOLhyphen"/>ſtanding they ſhould not want an occaſion of return<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:61675:10"/>into that ſtate from whence they were fallen, if <hi>(viz.)</hi> in a due manner they applied their indeavours thereunto.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="10" facs="tcp:61675:11"/>
+               <head>CHAP. II. <hi>Containing Reaſons which confirm theſe Poſi<g ref="char:EOLhyphen"/>tions.</hi>
+               </head>
+               <p n="1">1. WHatever Hypo<g ref="char:EOLhyphen"/>theſis concerning the Original of the Soul, is more conſentaneous to ſound Reaſon than any other is, that Hypotheſis of all others comes neareſt to the Truth: But this of the
+<pb n="11" facs="tcp:61675:11"/>Praeexiſtency of Souls is ſuch: Therefore, <hi>&amp;c.</hi> The ſecond propoſition of this Argu<g ref="char:EOLhyphen"/>ment is thus proved: Be<g ref="char:EOLhyphen"/>cauſe there are chiefly but two contrary opinions of this point. One of them is theirs who ſay that the Soul is propagated by natu<g ref="char:EOLhyphen"/>ral generation from the Pa<g ref="char:EOLhyphen"/>rents: The other is theirs who affirm that the Soul is created upon every oc<g ref="char:EOLhyphen"/>caſion given for the genera<g ref="char:EOLhyphen"/>tion. But in the former opinion we meet with a plain contradiction: For ſeeing that the Soul is a Spirit, it is of an Eſſence indiviſi<g ref="char:EOLhyphen"/>ble,
+<pb n="12" facs="tcp:61675:12"/>that is, indiſcerpible. The other opinion afford<g ref="char:EOLhyphen"/>eth matters which are un<g ref="char:EOLhyphen"/>worthily aſcribed to the Divine Majeſty: (whilſt it makes God, the prima<g ref="char:EOLhyphen"/>ry efficient cauſe of, and the Author, according to the moſt proper and pecu<g ref="char:EOLhyphen"/>liar manner of ſpeaking, of the manifeſt crimes of Whoredom, Adultery, In<g ref="char:EOLhyphen"/>ceſt, yea, of Buggery, <hi>viz.</hi> perfecting thoſe im<g ref="char:EOLhyphen"/>pure Congreſſes, with the Creation of new Souls.) Yea, it moreover injureth the very Soul it ſelf, which being created by God in
+<pb n="13" facs="tcp:61675:12"/>all manner of purity, is thruſt down into a Dun<g ref="char:EOLhyphen"/>geon (ſaith this opinion) which is the impureſt of all, by the depravity of which a many of them are ſo corrupted, that at laſt they are neceſſarily adjudged to that extream<g ref="char:EOLhyphen"/>eſt of calamities, that they all remain infidels or un<g ref="char:EOLhyphen"/>believing. Seeing there<g ref="char:EOLhyphen"/>fore theſe two opinions are thus abſurd, what can be more probable than the Praeexiſtency of Souls?</p>
+               <pb n="14" facs="tcp:61675:13"/>
+               <p n="2">2. If from the begin<g ref="char:EOLhyphen"/>ning of the World the matter of every ſingle man remained undivided, which certainly muſt needs be ſubjected to many my<g ref="char:EOLhyphen"/>riads of alterations and modifications, before it could arrive to the ſtate of a humane body, it is much more probable, that every man's ſoul alſo did already exiſt, or was in being even from that very Age, Term, or beginning: But the former part of the Argument is true, no one
+<pb n="15" facs="tcp:61675:13"/>Philoſopher ever contradi<g ref="char:EOLhyphen"/>cting it: Therefore alſo is the latter part thereof true. The connexion of both parts of that propo<g ref="char:EOLhyphen"/>ſition is thus proved; be<g ref="char:EOLhyphen"/>cauſe it is moſt eminent<g ref="char:EOLhyphen"/>ly probable that to the more Noble ſubſtance, there alſo belongeth the more Noble duration. But the Soul is nobler than the Body.</p>
+               <p n="3">3. He who through his Wiſdom alwayes doth that which is beſt, he with<g ref="char:EOLhyphen"/>out doubt hath in this
+<pb n="16" facs="tcp:61675:14"/>caſe alſo done that which is beſt: But now it is bet<g ref="char:EOLhyphen"/>ter to be in being ſooner, than to be later, ſeeing al<g ref="char:EOLhyphen"/>ways that it is good to be. But the firſt is true concern<g ref="char:EOLhyphen"/>ing God, therefore alſo is the latter true of him.</p>
+               <p n="4">4. Whoever is ſupream<g ref="char:EOLhyphen"/>ly and abſolutely, and by conſequence always good, he alſo is always commu<g ref="char:EOLhyphen"/>nicative thereof to another; and then indeed by how much he is ſo to more, by ſo much is it better: But the firſt is true of
+<pb n="17" facs="tcp:61675:14"/>God: Therefore alſo is the latter, and by conſequence there were not from the be<g ref="char:EOLhyphen"/>ginning created Souls want<g ref="char:EOLhyphen"/>ing, to whom God might communicate himſelf.</p>
+               <p n="5">5. If the Goodneſs of God ought not to be de<g ref="char:EOLhyphen"/>termined to be leſs than any goodneſs of men, then it follows, that the divine goodneſs would not but now at length create or produce Souls. But the firſt is true, and therefore alſo is the latter. The connexion of that ar<g ref="char:EOLhyphen"/>gument
+<pb n="18" facs="tcp:61675:15"/>is proved; becauſe good men, as much as in them lies, never let ſlip occaſion of doing good, eſpecially if nothing hin<g ref="char:EOLhyphen"/>ders them: how much leſs then ſhall the moſt glori<g ref="char:EOLhyphen"/>ous God do ſo, of and to whom we cannot ſo much as in thought imagine there can be any impedi<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="6">6. He whoſe Govern<g ref="char:EOLhyphen"/>ment or Dominion could never be other than moſt full and compleat, to him never could be want<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:61675:15"/>Subjects, as many as poſſibly could ever be in being: But the Univerſal Dominion of God is un<g ref="char:EOLhyphen"/>changeable, and never was not moſt full and com<g ref="char:EOLhyphen"/>pleat; Therefore alſo there never were wanting to him as many Souls as could poſſibly ever be in being.</p>
+               <p n="7">7. If God gave not ſuch noble Creatures the ſame duration as he gave to matter, it follows, that He either could not, or would not do it, but that is re<g ref="char:EOLhyphen"/>pugnant
+<pb n="20" facs="tcp:61675:16"/>to his Omnipoten<g ref="char:EOLhyphen"/>cy, and this to his Juſtice. Therefore he did give it.</p>
+               <p n="8">8. From what Opinion ſoever thoſe difficulties which are met with in or about humane affairs can moſt eaſily be avoided, that ſame is not only the trueſt, but alſo the moſt uſeful opinion; but this concerning the Praeexiſten<g ref="char:EOLhyphen"/>cy of Souls is ſuch: There<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi> The minor pro<g ref="char:EOLhyphen"/>poſition is proved, becauſe by this opinion it is conclu<g ref="char:EOLhyphen"/>ded that the ſouls of men
+<pb n="21" facs="tcp:61675:16"/>did once exiſt in ſome other State or Condition, in which they did in various manners and degrees ſin againſt their Creator: and thereupon it became neceſ<g ref="char:EOLhyphen"/>ſary according to his moſt juſt judgments, that they ſhould endure various ca<g ref="char:EOLhyphen"/>lamities, and ſeveral ſad chances or accidents one af<g ref="char:EOLhyphen"/>ter another as a puniſhment inflicted on them for the many exorbitances of their Apoſtaſie. By this Key may not only be readily un<g ref="char:EOLhyphen"/>locked that myſtery, why many are ſo averſe to all
+<pb n="22" facs="tcp:61675:17"/>Religion and Vertue, yea, al<g ref="char:EOLhyphen"/>ſo plainly ſtupid, and being, as it were, corrupted by an invincible kind of ſloth as to all things of ſuch a Na<g ref="char:EOLhyphen"/>ture, even from their very Cradles, but to all vices al<g ref="char:EOLhyphen"/>moſt are incorrigibly prone. But alſo why even whole Nations of people, for ſo ma<g ref="char:EOLhyphen"/>ny ages have lien as it were buried in the moſt ſavage barbarity, yea and many of them are even yet to this very day detained therein? Which ſtrange Scene of things would neceſſarily much darken the wayes of
+<pb n="23" facs="tcp:61675:17"/>the Divine providence, un<g ref="char:EOLhyphen"/>leſs ſome glimmerings of Light ſhould by and through this Hypotheſis break forth upon them.</p>
+               <p n="9">9. That opinion which is not contradicted by any of our faculties, is without doubt to be reputed to be true: But this of the Prae<g ref="char:EOLhyphen"/>exiſtency of Souls is ſuch: Therefore, <hi>&amp;c.</hi>
+               </p>
+               <p n="10">10. Whatſoever opinion doth without any difficul<g ref="char:EOLhyphen"/>ty, alone explicate the Na<g ref="char:EOLhyphen"/>ture of Original ſin, that
+<pb n="24" facs="tcp:61675:18"/>is to be preferred before all others: This is ſuch a one: Therefore, <hi>&amp;c.</hi> The minor propoſition is pro<g ref="char:EOLhyphen"/>ved: Becauſe by this Hy<g ref="char:EOLhyphen"/>potheſis, every man is him<g ref="char:EOLhyphen"/>ſelf concluded to be the Author of his firſt Original ſin; nor is there any need that we ſhould have re<g ref="char:EOLhyphen"/>courſe to the ſin and puniſh<g ref="char:EOLhyphen"/>ment of <hi>Adam,</hi> where we certainly meet with a La<g ref="char:EOLhyphen"/>byrinh of difficulties: For here in this we hunt not after that ſecret and imper<g ref="char:EOLhyphen"/>ſcrutable way or manner, how that ſin of his is devol<g ref="char:EOLhyphen"/>ved
+<pb n="25" facs="tcp:61675:18"/>down upon us: Nor is the Divine juſtice brought into danger of be<g ref="char:EOLhyphen"/>ing accuſed, as if it ſhould thruſt down and ſhut up immaculate pure Spirits into foul and unclean bodies, and that without any fault of theirs; in as much as they were thoſe who never had any com<g ref="char:EOLhyphen"/>merce, or any thing to do with the ſin of <hi>Adam:</hi> together with all the other Incongruities, which belong to the common opinion.</p>
+               <pb n="26" facs="tcp:61675:19"/>
+               <p n="11">11. Whatſoever Opinion doth without all difficulty, alone unfold thoſe things which occur about the various inclinations of humane minds, That is to be eſteemed before others: But this of the Praeexiſtency is ſuch: Therefore, <hi>&amp;c.</hi> The minor is thus proved: The In<g ref="char:EOLhyphen"/>ternal Complexions of men are as various as are their External Conſtituti<g ref="char:EOLhyphen"/>ons; and the Tempera<g ref="char:EOLhyphen"/>ments of their minds are as diverſe as thoſe of their bodies, ſo that as there be
+<pb n="27" facs="tcp:61675:19"/>peculiarities of Tempers in Bodies, or Radical tempe<g ref="char:EOLhyphen"/>raments in the Corporeal parts of Bodies, ſo alſo are there found Mental, or Souliſh (if I may ſo ſpeak) Propenſions congenite or connatural to the Souls themſelves, with which they come as it were ſealed and impregnated into this World. For it may moſt eaſily be obſerved that ſome are moſt highly ad<g ref="char:EOLhyphen"/>dicted or prone to ſuch or ſuch Opinions, inſomuch that at the very firſt bluſh, as it were, they give up their
+<pb n="28" facs="tcp:61675:20"/>aſſents unto them, yea, and afterwards ſtick cloſe unto them, when as on the contrary, Others as equally learned, and who have no leſs ſharpneſs of judgment, do notwith<g ref="char:EOLhyphen"/>ſtanding heſitate in or concerning them, yea, though they were alike clearly propoſed, and con<g ref="char:EOLhyphen"/>firmed with equal evi<g ref="char:EOLhyphen"/>dence; ſo that oftentimes, they can by no means be brought to approve of them, but rather they moſt obſti<g ref="char:EOLhyphen"/>nately cry out againſt them, inſomuch as this their a<g ref="char:EOLhyphen"/>verſeneſs
+<pb n="29" facs="tcp:61675:20"/>ſeems to be im<g ref="char:EOLhyphen"/>planted and riveted into the very nature it ſelf of theſe men. Whence now ariſeth this Intellectual Congruity with ſome O<g ref="char:EOLhyphen"/>pinions, and an Antipathy and Incompatibility with others, unleſs their Souls did praeexiſt, and came down into this ſtate or condition thus prepoſſeſſed with a certain kind of af<g ref="char:EOLhyphen"/>fection to theſe or the other principles, and with an inbred hatred to the con<g ref="char:EOLhyphen"/>trary. The ſame may be obſerved alſo about
+<pb n="30" facs="tcp:61675:21"/>thoſe things unto which many incline, as being ve<g ref="char:EOLhyphen"/>ry prone to ſome certain exerciſes, and peculiar ope<g ref="char:EOLhyphen"/>rations, of which determi<g ref="char:EOLhyphen"/>nations ſingularly tending to many ſpecialties there can be rendred no ſuffici<g ref="char:EOLhyphen"/>ent reaſon; unleſs it be this, that the Souls of theſe people had formerly ap<g ref="char:EOLhyphen"/>peared and acted on ano<g ref="char:EOLhyphen"/>ther Theater, before they came down into this, where they were addicted to ſome certain kind of actions which was very analogous or agreeable to this very
+<pb n="31" facs="tcp:61675:21"/>ſort, which they are ob<g ref="char:EOLhyphen"/>ſerved to affect here; in which if they had been more than ordinarily de<g ref="char:EOLhyphen"/>lighted, and were exer<g ref="char:EOLhyphen"/>ciſed any long while, they then acquired a habit, and its probable, that they retained in themſelves al<g ref="char:EOLhyphen"/>ways ſome certain re<g ref="char:EOLhyphen"/>liques concerning them, and ſome glimmerings and fragments as it were, and when the Reaſon, and the other faculties of theſe Souls came to Maturity, who can deny, but that theſe might be excited
+<pb n="30" facs="tcp:61675:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:61675:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:61675:23"/>afreſh, again to chooſe them, and to love them a new, and by a new recovery as it were, to call them back again into uſe.</p>
+               <p n="12">12. Whatſoever Opinion floweth forth from the very Nature it ſelf of Duration, that is a true Opinion; This is ſuch, <hi>&amp;c.</hi> The minor is proved, becauſe whatever is capa<g ref="char:EOLhyphen"/>ble of infinite duration from a reſpect of what's to come, the ſame is alſo capable of infinite durati<g ref="char:EOLhyphen"/>on in reſpect of what is
+<pb n="33" facs="tcp:61675:23"/>paſt, and that in its own Nature, which in it ſelf containeth nothing which is repugnant to this its former duration; but ſuch is the Soul: Therefore <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="34" facs="tcp:61675:24"/>
+               <head>CHAP. III. <hi>Containing Arguments drawn from Authori<g ref="char:EOLhyphen"/>ty, and indeed chiefly that of Scripture.</hi>
+               </head>
+               <p>AUthority is either Sa<g ref="char:EOLhyphen"/>cred, or humane, and that is ſuch either ſimply, as are the Scrip<g ref="char:EOLhyphen"/>tures; or elſe according to
+<pb n="35" facs="tcp:61675:24"/>a certain reſpect and con<g ref="char:EOLhyphen"/>ſideration, as is that of the Fathers. That of the Phi<g ref="char:EOLhyphen"/>loſophers is humane. The Arguments derived from the Authority of Scripture are either to prove the Prae<g ref="char:EOLhyphen"/>exiſtency of all Souls, or of the Soul of the Meſſiah only: The former ſhall be produced in this Chap<g ref="char:EOLhyphen"/>ter.</p>
+               <p n="1">1. In <hi>Deut.</hi> 29.14, 15. <hi>Neither with you only do I make this Covenant, and this Oath; But with all who ſtand here with us this day,
+<pb n="36" facs="tcp:61675:25"/>before the Lord our God, and alſo with all that are not here with us this day.</hi> From whence the Jews do thus argue:</p>
+               <p>Thoſe with whom God hath made a Covenant, they are not meer <hi>non-entities,</hi> becauſe a Covenant doth require two real relatives: But God hath made a Covenant with <hi>Iſraelites,</hi> who were not yet born; Therefore they who were not yet born, were not meer <hi>non-entities;</hi> and then by conſequence, their ſouls
+<pb n="37" facs="tcp:61675:25"/>either lurked in the Souls of their Parents, which above is proved to be ab<g ref="char:EOLhyphen"/>ſurd, or elſe they already did praexiſt.</p>
+               <p n="2">2. Iſaiah 57.16. <hi>For I will not contend for ever, nei<g ref="char:EOLhyphen"/>ther will I be always wroth: For the Spirit ſhould fail be<g ref="char:EOLhyphen"/>fore me, and the Souls which I have made.</hi> From whence the <hi>Jews</hi> fetch this Argu<g ref="char:EOLhyphen"/>ment.</p>
+               <p>If God himſelf teſtifieth that he made Souls for Poſterity, with which he
+<pb n="38" facs="tcp:61675:26"/>will not contend, then thoſe Souls, before that time came, in which the Spirit ought to hide, or co<g ref="char:EOLhyphen"/>ver men, did already praeex<g ref="char:EOLhyphen"/>iſt: But from the Text the firſt is true, Therefore alſo is the latter true.</p>
+               <p n="3">3. <hi>Jeremiah</hi> 1.5. <hi>Be<g ref="char:EOLhyphen"/>fore I had formed thee in the Belly, I knew thee,</hi> (or rather I implanted know<g ref="char:EOLhyphen"/>ledge into thee) <hi>and before thou cameſt forth out of the Womb, I ſanctified thee, and ordained thee a Prophet unto the Nations.</hi>
+               </p>
+               <pb n="39" facs="tcp:61675:26"/>
+               <p>Whence ſay the <hi>Jews:</hi> Whomſoever God ſo knew, as that he implanted know<g ref="char:EOLhyphen"/>ledge into him, and ſanctified him, and or<g ref="char:EOLhyphen"/>dained him for a Prophet, he muſt needs be in being: But God did beſtow all this upon one before he was formed in the Womb; Therefore one did exiſt before he was formed in the Womb: and if it was thus with one, what hin<g ref="char:EOLhyphen"/>ders that it may not be ſo with all, becauſe duration is one and the ſame to all created Spirits.</p>
+               <pb n="40" facs="tcp:61675:27"/>
+               <p n="4">4. Eccleſiaſt. 4.2, 3. <hi>Wherefore I praiſed the dead: which are already dead, more than the living, which are yet alive. Yea, better is he than both they, which hath not yet been, who hath not ſeen the evil work that is done under the Sun.</hi> Whence is this Argument: (compare this with <hi>Matth.</hi> 26.24.) To whom is given but the leaſt Drachm of happineſs, to him it cannot be denyed that he is in being: But to him that is not yet born, ſuch happineſs is given: There<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi>
+               </p>
+               <pb n="41" facs="tcp:61675:27"/>
+               <p n="5">5. Job 38.21. <hi>Knoweſt thou, becauſe thou waſt then born, and the number of thy days is great:</hi> Or elſe by way of queſtion<g ref="char:EOLhyphen"/>ing, thus, <hi>Didſt thou know or not that then thou ſhouldeſt be born, and the number of thy ma<g ref="char:EOLhyphen"/>ny days?</hi> From either ſenſe floweth out a Praeexiſtency to the Soul of <hi>Job;</hi> in as much as he is concluded to be pre<g ref="char:EOLhyphen"/>ſent at the beginnings of things.</p>
+               <p n="6">6. Wiſd. 8.19, 20. <hi>For I was a witty child, and had a good Spirit; Yea, rather be<g ref="char:EOLhyphen"/>ing good, I came into a body
+<pb n="42" facs="tcp:61675:28"/>undefiled.</hi> Now he who cometh into a body, being already good, certainly the making of his Soul began not with that of his body.</p>
+               <p n="7">7. John 9.2, 3. <hi>And his Diſciples asked him ſaying, Maſter, who did ſin, this man or his Parents, that he was born blind? Jeſus anſwered, neither hath this man ſinned nor his Parents, but that,</hi> &amp;c. whence is this argument:</p>
+               <p>Whatever opinion, when the moſt fair occaſion was given, Chriſt did not re<g ref="char:EOLhyphen"/>fute, nor reproved it as
+<pb n="43" facs="tcp:61675:28"/>erroeous, in that opinion is contained no unſound<g ref="char:EOLhyphen"/>neſs, nor danger, nor er<g ref="char:EOLhyphen"/>rour: But this of the Prae<g ref="char:EOLhyphen"/>exiſtency is ſuch an opinion, Therefore, <hi>&amp;c.</hi>
+               </p>
+               <p n="8">8. Thoſe who in Scrip<g ref="char:EOLhyphen"/>ture are ſaid to be loſt, they were ſometime not loſt: For every thing which is ſaid to be loſt, there<g ref="char:EOLhyphen"/>by preſuppoſes, that it was ſometime in his power and poſſeſſion, who after that, loſt it: for that which was never in poſſeſ<g ref="char:EOLhyphen"/>ſion, can never be ſaid to
+<pb n="44" facs="tcp:61675:29"/>be loſt: But all men in Scripture are ſaid to be loſt: Therefore all men were ſometime not loſt: And conſequently were in the power and poſſeſſion of the ſupream Lord: The minor is pro<g ref="char:EOLhyphen"/>ved by <hi>Pſalm</hi> 119.176. <hi>Jeremiah</hi> 50.6. <hi>Ezek.</hi> 34.16. <hi>Luk.</hi> 15.9, 24. chap. 19.10. <hi>Matthew</hi> 15.24. <hi>&amp;</hi> 18.11.</p>
+               <p n="9">9. Whoever are ſaid to be <hi>erred and ſtrayed like loſt ſheep,</hi> they are to be preſuppoſed to have been in the flock: But in
+<pb n="45" facs="tcp:61675:29"/>Scripture men are ſaid <hi>to erre and ſtray from the flock like loſt ſheep,</hi> 1 Pet. 2.25. Joh. 11.52. Therefore they were in the flock once, and by conſequence did praeexiſt.</p>
+               <p n="10">10. Whoever are ſtran<g ref="char:EOLhyphen"/>ſters and Foreigners in the Earth, They had their riſe from elſewhere, than in the Earth, and have their Countrey elſewhere. But in Holy Writ, men are ſaid to be <hi>ſtrangers in the Earth:</hi> Therefore, <hi>&amp;c.</hi> The minor is proved from <hi>Pſalm</hi> 39.12. 1 <hi>Peter</hi> 2.11.
+<gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="48" facs="tcp:61675:30"/>
+               <head>CHAP. IV. <hi>Containing Arguments drawn from Holy Scripture, to prove the Praeexiſtency of the Soul of the Meſſiah.</hi>
+               </head>
+               <p>IF Chriſt's Soul did prae<g ref="char:EOLhyphen"/>exiſt, then did all Souls praeexiſt: But the firſt is true, as preſently ſhall be taught from Holy Scripture: Therefore, <hi>&amp;c.</hi> the major is proved, becauſe Chriſt is in all things like unto us, ſin
+<pb n="49" facs="tcp:61675:30"/>excepted; Now by and in the Reaſon of all Souls there is the ſame manner of duration. The minor is proved,</p>
+               <p n="1">1. Becauſe Chriſt hath long ſince often appeared to the Patriarchs; He often converſed with <hi>Moſes:</hi> He delivered the Children of <hi>Iſrael</hi> out of <hi>Aegypt;</hi> He accompanied them in the Wilderneſs; and led them into the Land of <hi>Canaan,</hi> &amp;c. witneſs (beſides innume<g ref="char:EOLhyphen"/>rable places in the Old Te<g ref="char:EOLhyphen"/>ſtament) that of <hi>Paul</hi> 1 <hi>Cor.</hi>
+                  <pb n="50" facs="tcp:61675:31"/>10.4. and that of <hi>John</hi> 1.11.</p>
+               <p n="2">2. Becauſe he himſelf te<g ref="char:EOLhyphen"/>ſtifieth, that he had a glory with his Father before the World was made, <hi>Joh.</hi> 17.5. But this was not the Glory of his divine nature, becauſe that was in its own nature immutable; Therefore it was the glory of his Soul which already did praeexiſt.</p>
+               <p n="3">3. Moreover He himſelf teſtifieth thus: <hi>I came but from the Father, and am come into the World.</hi> Again, <hi>I leave the World, and return unto the Father.</hi> As in <hi>John</hi> 16.28.</p>
+               <pb n="51" facs="tcp:61675:31"/>
+               <p n="4">4. John 3.13. <hi>No man aſcendeth into Heaven, but he who deſcended from Heaven, the Son of Man,</hi> &amp;c.</p>
+               <p n="5">5. <hi>John</hi> the <hi>Baptiſt</hi> teſtifi<g ref="char:EOLhyphen"/>eth of him, That <hi>he came from above.</hi> John 3.31.</p>
+               <p n="6">6. Again, Chriſt himſelf ſaith, <hi>Joh.</hi> 6.32. <hi>My Father giveth unto you the true bread from Heaven: for he is the true bread of God, who deſcended from Heaven.</hi>
+               </p>
+               <p n="7">7. Verſ. 38. <hi>I deſcended from Heaven.</hi>
+               </p>
+               <pb n="52" facs="tcp:61675:32"/>
+               <p n="8">8. <hi>The living Father hath ſent me. This is the bread which deſcended from Heaven,</hi> Joh. 6.57.58. compare herewith, <hi>verſ.</hi> 41. &amp; 51.</p>
+               <p n="9">9. 1. <hi>Cor.</hi> 15.47.</p>
+               <p n="10">10. <hi>Let this mind be in you, which was alſo in Chriſt Jeſus: Who being in the form of God, thought it not robbery to be equal with God: but made him<g ref="char:EOLhyphen"/>ſelf of no reputation, and took upon him the form of a Servant, and was made in the likeneſs of man,</hi> &amp;c.
+<pb n="53" facs="tcp:61675:32"/>They are the words of <hi>Paul, Phil.</hi> 2.5, 6, 7. All which, together with the foregoing words, can by no means be underſtood of the Divine Nature of Chriſt, which can neither be varied, nor moved from place to place, by reaſon of his di<g ref="char:EOLhyphen"/>vine Excellency and Omni<g ref="char:EOLhyphen"/>preſence, which is eſſential to him; and by conſequence they muſt neceſſarily be meant of the Soul of Chriſt, which praeexiſted long be<g ref="char:EOLhyphen"/>fore its earthly body; from whence a moſt certain ar<g ref="char:EOLhyphen"/>gument may be framed,
+<pb n="50" facs="tcp:61675:33"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="51" facs="tcp:61675:33"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="52" facs="tcp:61675:34"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="53" facs="tcp:61675:34"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="54" facs="tcp:61675:35"/>That the Souls of all other men did praeexiſt.</p>
+               <p n="11">11. Compare herewith, <hi>Heb.</hi> 1.6. <hi>The Father bring<g ref="char:EOLhyphen"/>eth in the firſt begotten into the World,</hi> Which is to be under<g ref="char:EOLhyphen"/>ſtood according to his huma<g ref="char:EOLhyphen"/>nity.</p>
+               <p n="12">12. 1 <hi>John</hi> 3.5.8. He who is manifeſted or ap<g ref="char:EOLhyphen"/>peareth, he doth not then begin to be in being.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="55" facs="tcp:61675:35"/>
+               <head>CHAP. V. <hi>Containing Arguments taken from humane Authority, yet are ſuch as in their kind are Sacred.</hi>
+               </head>
+               <p n="1">1. LEt the Apoſtles of our Lord be here produced, even when they were not as yet illumina<g ref="char:EOLhyphen"/>ted, who were addicted to this opinion, and yet were
+<pb n="56" facs="tcp:61675:36"/>not corrected by our Lord, as is manifeſt (1.) in that, that they asked him con<g ref="char:EOLhyphen"/>cerning him who was born blind, <hi>Joh.</hi> 9.2. (2.) In that, that they ſaid that ſome thought that he was <hi>John</hi> the <hi>Baptiſt,</hi> others <hi>Elias,</hi> others <hi>Jeremias,</hi> or one of the Pro<g ref="char:EOLhyphen"/>phets, as in <hi>Matth.</hi> 16.14. Which aſſertion cannot ſtand unleſs upon the foundati<g ref="char:EOLhyphen"/>on of Praeexiſtency, nor yet was it corrected by our Lord, as without all doubt, had it contained in it any thing that was erroneous, it would have been by him
+<pb n="57" facs="tcp:61675:36"/>who was the moſt holy, and the moſt benign Ma<g ref="char:EOLhyphen"/>ſter, or Teacher. (3.) In that, that when our Lord ſaid, That he came out from the Father, they pre<g ref="char:EOLhyphen"/>ſently anſwered, <hi>Behold now ſpeakeſt thou plainly, and ſpeak<g ref="char:EOLhyphen"/>eſt no proverb?</hi> Joh. 16.29.</p>
+               <p n="2">2. Let <hi>Clement</hi> of <hi>Alexan<g ref="char:EOLhyphen"/>dria</hi> come forth next, who often in his writings makes mention of this opinion, nor ever once redargueth it as erroneous; For in his <hi>Stromat.</hi> 1. He thus ſaith: <q>It is manifeſt that the Bar<g ref="char:EOLhyphen"/>barians
+<pb n="58" facs="tcp:61675:37"/>did eſpecially ho<g ref="char:EOLhyphen"/>nour their Lawgivers and Lords, calling them Gods, for they thought, together with <hi>Plato,</hi> that ſome good Souls having left their ſu<g ref="char:EOLhyphen"/>perceleſtial abode, did make a deſcent into this inferiour Orb, and having aſſumed bodies, became partakers of all thoſe miſeries which are obvious in Generation, and became ſollicitouſly careful of mankind, to whom they gave Laws, and taught Philoſophy.</q> And then in his 3. Book, he ſaith, when he diſpu<g ref="char:EOLhyphen"/>teth
+<pb n="59" facs="tcp:61675:37"/>againſt the <hi>Marcionites,</hi> and alledges many places out of <hi>Plato,</hi> which do part<g ref="char:EOLhyphen"/>ly directly, and partly indi<g ref="char:EOLhyphen"/>rectly include this opinion, amongſt which is that out of his <hi>Phaedo, viz.</hi> 
+                  <q>That there is a Secret brought down to us by Tradition, that we men are in this life, as it were in a Priſon:</q> So alſo is that other, where he citeth <hi>Heraclitus,</hi> alſo <hi>Py<g ref="char:EOLhyphen"/>thagoras,</hi> and <hi>Socrates,</hi> toge<g ref="char:EOLhyphen"/>ther with <hi>Plato;</hi> 
+                  <q>That Death is but what we ſee when up and awake; but what we ſee in ſleep, is a
+<pb n="60" facs="tcp:61675:38"/>Dream.</q> But moſt agreea<g ref="char:EOLhyphen"/>ble of all is what he quoteth out of <hi>Philolaus</hi> the Pytha<g ref="char:EOLhyphen"/>gorean; <q>The Ancient Di<g ref="char:EOLhyphen"/>vines and Poets do te<g ref="char:EOLhyphen"/>ſtifie, that the Soul is con<g ref="char:EOLhyphen"/>joyned to this earthly body, by way of a puniſhment, and that ſhe is, all the while ſhe remaineth therein, as it were buried.</q> But againſt this he ſaith nothing. In the ſame Book although he mightily ſets himſelf againſt <hi>Julius Caſſian,</hi> yet he uſeth theſe words: <q>This Noble wit is of an opinion which accordeth more with the
+<pb n="61" facs="tcp:61675:38"/>mind of <hi>Plato, viz.</hi> that the Soul which is divine, and from above, bei<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, effeminated with luſt, doth deſcend into Gene<g ref="char:EOLhyphen"/>ration and Corruption.</q> Yea, in his <hi>Protrept.</hi> he expreſly ſaith: <q>That Chriſt did again call back into Heaven, thoſe who were thrown down upon, and to the Earth.</q>
+               </p>
+               <p n="3">3. Let <hi>Origen</hi> follow next, who more openly did pro<g ref="char:EOLhyphen"/>pagate this opinion, ſo as there is no need to give any Quotations out of him.</p>
+               <pb n="62" facs="tcp:61675:39"/>
+               <p n="4">4. Moreover <hi>Syneſius</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Cyrenia,</hi> who in his 105. Epiſtle ſaith expreſly: <q>In good truth I ſhall ne<g ref="char:EOLhyphen"/>ver deſign to be of the opinion, that the Soul in its exiſtence comes after the Body.</q> And in his 3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hymn: <q>As a drop from Heaven, I was poure<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> forth on the earth. Re<g ref="char:EOLhyphen"/>ſtore me to my ſpring whence I flowed in this baniſht wandring birth.</q>
+               </p>
+               <p n="5">5. To theſe joyn <hi>Arnobius,</hi> who in his 1. Book againſt the Gentiles ſaith thus:
+<pb n="63" facs="tcp:61675:39"/>
+                  <q>Do we not all owe unto God this in the firſt place, That we are, That we are called men, That be<g ref="char:EOLhyphen"/>ing either ſent from him, or fallen thorough blind<g ref="char:EOLhyphen"/>neſs, we are detained in the chains of a Body?</q>
+               </p>
+               <p n="6">6. <hi>Prudentius</hi> appears next, who in his Hymn at the funeral Solemnities of the deceaſed ſingeth after this manner:
+<q>
+                     <l>
+                        <hi>See now how to the faithful is made plain</hi>
+                     </l>
+                     <l>
+                        <hi>The bright path of the ample Pa<g ref="char:EOLhyphen"/>radiſe again;</hi>
+                     </l>
+                     <pb n="64" facs="tcp:61675:40"/>
+                     <l>
+                        <hi>And man may freely now approach that grove</hi>
+                     </l>
+                     <l>
+                        <hi>Which the ſly Serpent took from him above.</hi>
+                     </l>
+                     <l>
+                        <hi>There, O thou beſt of Guides, I humbly pray,</hi>
+                     </l>
+                     <l>
+                        <hi>Command that thy Servant-maid this Mind may</hi>
+                     </l>
+                     <l>
+                        <hi>Be re-inſtall'd in her kindly Sa<g ref="char:EOLhyphen"/>cred Throne,</hi>
+                     </l>
+                     <l>
+                        <hi>Which ſhe had left, as exil'd wandring down.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p n="7">7. St. <hi>Auguſtine</hi> alſo ſpeaks favourably of this opinion, in his 1. Book of Free-will: <q>Whether the Soul lived an<g ref="char:EOLhyphen"/>other kind of life before
+<pb n="65" facs="tcp:61675:40"/>her conjunction to this body, is a great queſtion, and a great ſecret.</q> Alſo in the 3. Book, when he came to ſpeak of the Praeexiſtency of Souls, he ſaith thus: <q>If we think of God, that he is any other than he is, our in<g ref="char:EOLhyphen"/>tention driveth us not into beatitude, but into vanity; but if we think of the Crea<g ref="char:EOLhyphen"/>ture any thing otherwiſe than he is, ſo long as we do not hold that opinion, for that, that is known, and commanded, there is no danger.</q> And in the diſcuſſion of that fourfold
+<pb n="66" facs="tcp:61675:41"/>queſtion, Whether, <hi>(viz.)</hi> the Soul be propagated, or crea<g ref="char:EOLhyphen"/>ted? Whether or no it was ſent from God, from ſome ſecret receptacle, where it praeexiſted; or that it fell down hither by, or of its own proper motion? he ſaith thus: <q>Either that ſame queſtion is not, as yet, by the Catholick Writers of Divine Books, becauſe of its obſcurity and perplexi<g ref="char:EOLhyphen"/>ty, brought and illuſtra<g ref="char:EOLhyphen"/>ted, as it deſerves; or elſe if it be already performed, their Letters have not as yet arrived at my hands.</q>
+               </p>
+               <pb n="67" facs="tcp:61675:41"/>
+               <p n="8">8. St. <hi>Baſil</hi> alſo, <hi>&amp;c.</hi> And</p>
+               <p n="9">9. <hi>Gregory Nazianzen,</hi> who that they were not adverſa<g ref="char:EOLhyphen"/>ries to this opinion, appears from hence, that out of <hi>Ori<g ref="char:EOLhyphen"/>gen</hi>'s Writings they collected a very remarkable Treatiſe, on which they put the title of <hi>Origen</hi>'s <hi>Philocalia,</hi> in which are found places, not a few, which partly implicitly partly explicitly affirm the Praeexiſtency of Souls.</p>
+               <p n="10">10. <hi>John</hi> of <hi>Hieruſalem.</hi> 11. <hi>Phil aſtrius.</hi> 12. <hi>Boethius</hi> may be added to the reſt.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="68" facs="tcp:61675:42"/>
+               <head>CHAP. VI. <hi>Containing Arguments derived from the Authority of the Phi<g ref="char:EOLhyphen"/>loſophers.</hi>
+               </head>
+               <p>THe Teſtimony of the Antients is indeed found to exceed all others, let us turn our eyes which way ſoever we pleaſe.</p>
+               <pb n="69" facs="tcp:61675:42"/>
+               <p n="1">1. In <hi>Aegypt,</hi> the moſt An<g ref="char:EOLhyphen"/>tient Nurſe of occult ſcien<g ref="char:EOLhyphen"/>ces, we have <hi>Triſmegiſtus</hi> aſ<g ref="char:EOLhyphen"/>ſenting thereunto, as is ap<g ref="char:EOLhyphen"/>parent out of his Fragments.</p>
+               <p n="2">2. As alſo the <hi>Gymnoſo<g ref="char:EOLhyphen"/>phiſts,</hi> with whom the <hi>Brachmans</hi> of <hi>India,</hi> and the <hi>Perſian</hi> and <hi>Chaldean</hi> Wiſe<g ref="char:EOLhyphen"/>men had to do, as is mani<g ref="char:EOLhyphen"/>feſt from the Magical or <hi>Chaldean</hi> Oracles, upon which <hi>Pletho</hi> and <hi>Pſellus</hi> wrote Commentaries.</p>
+               <p n="3">3. To theſe add the ab<g ref="char:EOLhyphen"/>ſtruſe Philoſophy of the <hi>Jews</hi>
+                  <pb n="70" facs="tcp:61675:43"/>which they call the Cabbala, whoſe Author was <hi>Moſes</hi> the chiefeſt of all the Philo<g ref="char:EOLhyphen"/>ſophers who ever were: Whence <hi>Manaſſeh Ben Iſrael</hi> concerning the Creation, <hi>Prob.</hi> 15. <hi>ſ.</hi> 5. out of <hi>Gema<g ref="char:EOLhyphen"/>ra Hagigae</hi> citeth the follow<g ref="char:EOLhyphen"/>ing words: <q>In the <hi>Empyrean</hi> Heaven are Manſions of life and peace, and of the Souls of the Juſt, and of Spirits, and alſo of thoſe Souls which are to come into the world:</q> And out of <hi>Bereſchith Rabba</hi> alledg<g ref="char:EOLhyphen"/>eth that teſtimony, that the Jewiſh Doctors do ex<g ref="char:EOLhyphen"/>pound
+<pb n="71" facs="tcp:61675:43"/>that place of <hi>Pſalm,</hi> 139.5. <hi>After and before thou formedſt me,</hi> concerning the Creation of <hi>Adam:</hi> that is, of men, which was done firſt on the firſt day, and then on the ſixth day.</p>
+               <p n="4">4. Hither alſo doth eſ<g ref="char:EOLhyphen"/>pecially belong <hi>Philo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the <hi>Jew,</hi> in whom nothing is more familiarly treated on, than this opinion, that the Quotations are needleſs. We may add, 5. <hi>Zoroaſter.</hi> 6. <hi>Pythagoras.</hi> 7. <hi>Epicharmus.</hi> 8. <hi>Empedocles.</hi> 9. <hi>Cebes</hi> of <hi>Thebes.</hi> 10. <hi>Euripides.</hi> 11.
+<pb n="72" facs="tcp:61675:44"/>
+                  <hi>Plato.</hi> 12. <hi>Euclid.</hi> 13. <hi>Virgil.</hi> 14. <hi>M. T. Cicero.</hi> 15. <hi>Plotin.</hi> 16. <hi>Jamblichus.</hi> 17. <hi>Proclus.</hi> 18. <hi>Porphyrius.</hi> 19. <hi>Pſellus;</hi> and a many others. And amongſt the Moderns, 20. <hi>Marſilius Ficinus.</hi> 21. Alſo <hi>Johann. Fer<g ref="char:EOLhyphen"/>nelius,</hi> who adjoyneth to himſelf, <hi>Hippocrates</hi> and <hi>Ga<g ref="char:EOLhyphen"/>len, viz.</hi> in Book 2. <hi>c.</hi> 4. of his concerning the hid<g ref="char:EOLhyphen"/>den cauſes of things. 22. <hi>Cardan</hi> of the immortality of Souls. <hi>p.</hi> 235.239. <hi>&amp;c.</hi> 23. <hi>Pomponatius,</hi> who notwith<g ref="char:EOLhyphen"/>ſtanding is little favourable to the immortality of the Soul. And leſt we ſhould leave out
+<pb n="73" facs="tcp:61675:44"/>any body, we will here al<g ref="char:EOLhyphen"/>ſo recount, 24. even <hi>Ariſto<g ref="char:EOLhyphen"/>tle</hi> himſelf, who in his tract of the Soul, <hi>l.</hi> 1. <hi>c.</hi> 3. when he ſpeaks of the ne<g ref="char:EOLhyphen"/>ceſſary quality of a body of being to be actuated by a Soul, he inveigheth a<g ref="char:EOLhyphen"/>gainſt them who handle this matter ſo negligently, as if it were poſſible, according to the Pythagorick Fables that any Soul might enter into any body: for to every Animal blongeth a proper ſpecies or kind, as alſo to be of a peculiar form; But they who teach otherwiſe,
+<pb n="74" facs="tcp:61675:45"/>do ſay the ſame, as if any one ſhould affirm, that the Smith's art goes into the pipe which is made; for e<g ref="char:EOLhyphen"/>very art muſt uſe its own inſtruments, and every Soul its own Body. Where certainly <hi>Ariſtotle</hi> doth not inveigh againſt the Opinion of Tranſmigrati<g ref="char:EOLhyphen"/>on (which includes in it ſelf, that of Praeexiſtency) but that the Soul of man can enter into the body of a Brute, and on the contra<g ref="char:EOLhyphen"/>ry; This is that abſurdity which <hi>Ariſtotle</hi> rejecteth, ta<g ref="char:EOLhyphen"/>citly approving of the o<g ref="char:EOLhyphen"/>ther
+<pb n="75" facs="tcp:61675:45"/>part of the opinion. Yea, in his tract of the generation of Souls, <hi>l.</hi> 3. <hi>c.</hi> 11. he ſpeaks out more clearly. <q>Out of the Earth, and its humidity are generated Plants and other living creatures, be<g ref="char:EOLhyphen"/>cauſe in the earth is a moi<g ref="char:EOLhyphen"/>ſture, and in the moiſture a Spirit, and in the whole Uni<g ref="char:EOLhyphen"/>verſe an animal heat; ſo that all things are in a manner full of Souls.</q> Alſo in <hi>l.</hi> 2. <hi>c.</hi> 3. where he eſpecially handleth the Queſtion of the Praeexiſtency of ſenſitive, and rational Souls; whether, <hi>viz.</hi> both of them may be
+<pb n="76" facs="tcp:61675:46"/>ſaid to praeeiſt, or the Ra<g ref="char:EOLhyphen"/>tional only, he thus con<g ref="char:EOLhyphen"/>cludes: <q>It remains then, that the Rational Soul only doth enter from without, as that which alone is divine, and with whoſe operation, that of the body hath nothing in common.</q> In which words he expreſly followeth the Opinion of his Maſter <hi>Plato.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb n="77" facs="tcp:61675:46"/>
+            <head>Part II. <hi>Being Confutatory.</hi>
+            </head>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>Containing objections from the adverſe part, and anſwers to them.</hi>
+               </head>
+               <div type="content">
+                  <p n="1">1. BUt here ſome argue to the contrary, thus: If the Soul ſhould be united to the body for a pu<g ref="char:EOLhyphen"/>niſhment,
+<pb n="78" facs="tcp:61675:47"/>then that union would not be natural; nor would be a good thing, and a perfection of nature; but rather ſomething that is evil, as is all puniſhment, which would be moſt abſurd.</p>
+               </div>
+               <div type="answer">
+                  <head>The Anſwer.</head>
+                  <p n="1">(1.) As for inſtance, it is injoyned alſo to man, for a puniſhment, that in the ſweat of his brows he ſhould eat his bread; that a woman ſhall bring forth in pain; that the earth ſhall bring forth Briars and thorns, and yet notwithſtanding, nei<g ref="char:EOLhyphen"/>ther
+<pb n="79" facs="tcp:61675:47"/>the ſweat, nor the pain of Child-bearing nor the bryars and thorns in reſpect of the earth, do ceaſe to be natural; yea, this very groſs and inglorious body it ſelf, inſtead of that glorious one in the ſtate of innocency, is given to a man for a pu<g ref="char:EOLhyphen"/>niſhment, and yet is a thing natural.</p>
+                  <p n="2">(2.) It is therefore a Falla<g ref="char:EOLhyphen"/>cy taken from what is ſaid with limitation, to what is ſaid ſimply: For ſimply the Soul is not united to the body for a puniſhment, but
+<pb n="80" facs="tcp:61675:48"/>reſtrictively, and this union according to the 9. Theſis of this Hypotheſis is not granted to the Soul only for a puniſhment, but alſo for an advantage, that, <hi>viz.</hi> an occaſion for the Soul to re<g ref="char:EOLhyphen"/>turn unto its former ſtate and condition ſhould not be wanting unto it.</p>
+               </div>
+               <div type="content">
+                  <p n="2">2. In every thing, that is, firſt w<hi rend="sup">ch</hi> is natural, and then that which is preternatural; but the ſeparation of a Soul, and a ſeparate ſubſiſtence is preternatural; but union is according to nature: There<g ref="char:EOLhyphen"/>fore
+<pb n="81" facs="tcp:61675:48"/>this muſt needs be be<g ref="char:EOLhyphen"/>fore that, and not on the Contrary.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The argument is of that ſort call'd by Logicians, an <hi>Ignoratio Elenchi;</hi> for by this Hypotheſis it is no where taught, that the Soul before its union with an earthly body, is in a ſeparate ſtate ſimply conſidered, but rather had been in an union with its more pure vehicles, <hi>viz.</hi> the Aethereal, and the Aereal, and being at length ſeparated from them, it de<g ref="char:EOLhyphen"/>ſcended
+<pb n="82" facs="tcp:61675:49"/>into this Terreſtrial body.</p>
+               </div>
+               <div type="content">
+                  <p n="3">3. If God in the begin<g ref="char:EOLhyphen"/>ning had created ſeparate Souls, then he created not all things in a perfection a<g ref="char:EOLhyphen"/>greeable and due to the na<g ref="char:EOLhyphen"/>ture of every one: The Reaſon of the conſequence is, becauſe the Soul attains to its proper, and its con<g ref="char:EOLhyphen"/>natural perfection in the body, and not out of the body.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>This is the ſame Argu<g ref="char:EOLhyphen"/>ment
+<pb n="83" facs="tcp:61675:49"/>with the laſt, and is ſo named. Alſo we muſt di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt bodies, whereof three are ſuch, as to which the Soul hath a na<g ref="char:EOLhyphen"/>tural aptitude: An Aethere<g ref="char:EOLhyphen"/>al body, ſuch as is promi<g ref="char:EOLhyphen"/>ſed to us in ſacred Writ: an Aereal one, and an Earthly one. If therefore it be ſaid, That the Soul obtaineth her proper perfection in an earthly body only, the aſ<g ref="char:EOLhyphen"/>ſertion is denyed: but if the Aethereal body be not ex<g ref="char:EOLhyphen"/>cluded, it is already ſaid, that according to this Hy<g ref="char:EOLhyphen"/>potheſis, the Soul long ſince
+<pb n="84" facs="tcp:61675:50"/>attained to this perfection.</p>
+               </div>
+               <div type="content">
+                  <p n="4">4. If Souls do exiſt be<g ref="char:EOLhyphen"/>fore their bodies, they are either on the way, or in their native Country, or in neither: but none of theſe can be affirmed: Therefore they do not praeexiſt.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Souls are at firſt in their own Country, where they ſprang forth: but after that in a neutral ſtate or condi<g ref="char:EOLhyphen"/>tion, when they be fallen down into a ſtate of ſin: but when they are let in<g ref="char:EOLhyphen"/>to
+<pb n="85" facs="tcp:61675:50"/>theſe bodies, they enter into the way of returning. Therefore the minor propo<g ref="char:EOLhyphen"/>ſition of the argument is falſe.</p>
+                  <p>If Souls ſhould praeexiſt, without all doubt they could not utterly forget that State or Condition; which yet it's manifeſt that none of them remember any thing of, therefore they did not praeexiſt.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>It will eaſily appear, that the forgetfulneſs of their for<g ref="char:EOLhyphen"/>mer
+<pb n="86" facs="tcp:61675:51"/>condition doth evince nothing againſt the the prae<g ref="char:EOLhyphen"/>exiſtency of Souls, if we conſider thoſe things which either plainly take away, or in a wonderful manner impair our memory in that life: of all which we ſhall in this place find the con<g ref="char:EOLhyphen"/>courſe, and in a greater degree, and from more powerful cauſes, than could ever happen to any man li<g ref="char:EOLhyphen"/>ving. Now thoſe things which here in this world do plainly deprive us of our memory are moſt chiefly theſe. 1. If opportunity be
+<pb n="87" facs="tcp:61675:51"/>wanting of remembring any thing: as it happeneth to them, who riſing from ſleep, dare ſwear that they dreamed nothing all that night, yet afterwards occa<g ref="char:EOLhyphen"/>ſion being given in the day<g ref="char:EOLhyphen"/>time, they recover into their memories oftentimes a long tract of dreams. 2. If we are diſuſed to apply our minds to ſome things; and thus when with great la<g ref="char:EOLhyphen"/>bour we have written ſome things whilſt we were School-boys, when we are grown up to be men, for the moſt part we cannot own
+<pb n="88" facs="tcp:61675:52"/>them for ours, but that our names written in them can convince us. 3. When ſome very remarkable change of conſtitution and tempera<g ref="char:EOLhyphen"/>ment happens in our bodies, either by ſome external ac<g ref="char:EOLhyphen"/>cident, or by ſome more ve<g ref="char:EOLhyphen"/>hement diſeaſe, or by Old age. Now all theſe prin<g ref="char:EOLhyphen"/>ciples of oblivion are more eminently found in the ſouls deſcent into this earthly dungeon, than ever was poſſible to be done ſo long as ſhe inhabited in the ſame. For it's far beyond all doubt, that the difference
+<pb n="89" facs="tcp:61675:52"/>between that ſcene of things which the Soul ſees out of the body, and that which ſhe ſees in the body, is by far greater than that which is between thoſe things which a man ſeeth ſleeping, and thoſe which he ſees waking: Now the perpetual affairs of this preſent life bring into the Soul a very remarkable diſuſe as to the remem<g ref="char:EOLhyphen"/>bring of former things paſt. Moreover their deſcent, it's probable, happened moſt<g ref="char:EOLhyphen"/>ly, when they were in a ſtate of ſilence, in which perhaps many myriads of
+<pb n="90" facs="tcp:61675:53"/>Souls lay for many ages; but if they might have deſcend<g ref="char:EOLhyphen"/>ed; not paſſing the ſtate of ſi<g ref="char:EOLhyphen"/>lence, there occurs to their memory examples of their former ſtate or condition, as it was with Chriſt in <hi>Joh.</hi> 17.5. Finally the de<g ref="char:EOLhyphen"/>ſcent into this earthly body is a greater mutation, and much more apt to blot out former impreſſions on the memory than any one acci<g ref="char:EOLhyphen"/>dent, or any other diſeaſe, which yet happening, do often deſtroy in many per<g ref="char:EOLhyphen"/>ſons all memory in this life.</p>
+                  <pb n="91" facs="tcp:61675:53"/>
+                  <p>But here again they ob<g ref="char:EOLhyphen"/>ject and ſay; if a bare muta<g ref="char:EOLhyphen"/>tion of vehicles can intro<g ref="char:EOLhyphen"/>duce into the Soul an utter forgetfulneſs of all things formerly done, it follows, that it may alſo be feared that the like may happen to her after her departure out of this earthly body; which is abſurd, becauſe then memory remaineth wholly firm, and Conſci<g ref="char:EOLhyphen"/>ence will never ceaſe to be and operate.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Theſe have a different con<g ref="char:EOLhyphen"/>ſideration,
+<pb n="92" facs="tcp:61675:54"/>becauſe between the former ſtate of Souls and the preſent there interpoſes a ſtate of ſilence and of ina<g ref="char:EOLhyphen"/>ctivity, in which all the ſuperiour faculties, <hi>viz.</hi> of Reaſon and ſenſe to which memory belongs, lie as it were benummed or aſleep: Now between the preſent ſtate and the future there in<g ref="char:EOLhyphen"/>terpoſeth no ſuch thing, whence neither can follow an utter aboliſhing of me<g ref="char:EOLhyphen"/>mory.</p>
+               </div>
+               <div type="content">
+                  <p n="6">6. If God hath created Souls with a threefold vital
+<pb n="93" facs="tcp:61675:54"/>aptitude, to a threefold ve<g ref="char:EOLhyphen"/>hicle, which is to be the laſt receptacle of fallen Souls, it follows that God created them with a neceſſi<g ref="char:EOLhyphen"/>ty of falling, becauſe every vital aptitude and conſe<g ref="char:EOLhyphen"/>quently alſo that aptitude to an earthly vehicle flows from the eſſence of the Soul, and by conſequence is ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>There is a diſtinction be<g ref="char:EOLhyphen"/>tween a vital aptitude conſi<g ref="char:EOLhyphen"/>dered in it ſelf, and between its being deduced into act:
+<gap reason="missing" extent="1 page">
+                        <desc>〈1 page missing〉</desc>
+                     </gap>
+                     <pb n="96" facs="tcp:61675:55"/>iſt, and therefore there be<g ref="char:EOLhyphen"/>longed to her many vehi<g ref="char:EOLhyphen"/>cles, it follows that when ſhe hath laid down her earthly vehicle, ſhe muſt a<g ref="char:EOLhyphen"/>gain aſſume another; and conſequently there needs no Reſurrection of the fleſh.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>We muſt diſtinguiſh be<g ref="char:EOLhyphen"/>twixt the meaning of the word [Fleſh] in the ſtate or condition wherein it is now Fleſh, and in the further and larger acception thereof, <hi>viz.</hi> when it is uſed for that, that was Fleſh:
+<pb n="97" facs="tcp:61675:55"/>now according to this lat<g ref="char:EOLhyphen"/>ter, and not according to the former acceptation is the Reſurrection of the fleſh to be underſtood: for fleſh as fleſh ſhall not riſe again, becauſe as the Apoſtle wit<g ref="char:EOLhyphen"/>neſſeth, 1 <hi>Cor.</hi> 15.51. <hi>We ſhall all be changed;</hi> But that which ſometime was fleſh, ſhall riſe again, and ſhall be changed into the nature of that its vehicle, which is then competent to every Soul; becauſe every mutation of matter is not accidental to it, and it is all one to its ſubſtance, after
+<pb n="98" facs="tcp:61675:56"/>what manner or ſhape its particles are formed (for it is indifferent to Wax whe<g ref="char:EOLhyphen"/>ther it repreſent the ſhape of a man, or of an apple; whether it be melted, or whether it be congealed;) there is nothing that will be loſt from that ſubſtance which was our fleſh: whe<g ref="char:EOLhyphen"/>ther it ſhould be turned and attenuated into the conſi<g ref="char:EOLhyphen"/>ſtence of Air, or of Aether.</p>
+               </div>
+               <div type="content">
+                  <p n="8">8. If the Soul did praeex<g ref="char:EOLhyphen"/>iſt at firſt in an Aerial vehi<g ref="char:EOLhyphen"/>cle, it follows, that after death alſo the like muſt be
+<pb n="99" facs="tcp:61675:56"/>given unto it, leſt it be forced to make a leap: But ſuch a vehicle would be al<g ref="char:EOLhyphen"/>together incommodious to departing pious Souls, be<g ref="char:EOLhyphen"/>cauſe the Air is the habita<g ref="char:EOLhyphen"/>tion of Devils, and full of Tempeſts.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>There are divers degrees in the Air; nor is there any need that pious Souls ſhould be after death ſhut up with<g ref="char:EOLhyphen"/>in the Atmoſphere of the earth, where theſe inconve<g ref="char:EOLhyphen"/>niencies are; but there may be found much higher
+<pb n="100" facs="tcp:61675:57"/>places in the Air, where is greater quiet.</p>
+               </div>
+               <div type="content">
+                  <p n="9">9. If the Hypotheſis of Praeexiſtency is true, it fol<g ref="char:EOLhyphen"/>lows, that a man may die of<g ref="char:EOLhyphen"/>tener than once: for if when a man departeth out of this life, his vital aptitude to an earthly body be not yet expired, it will be neceſ<g ref="char:EOLhyphen"/>ſary, that he ſhould return unto ſuch a like body, un<g ref="char:EOLhyphen"/>till a vital aptitude to an Aerial body ſhall awaken in him, and upon this ac<g ref="char:EOLhyphen"/>count he ought to die often<g ref="char:EOLhyphen"/>er than once, which is ab<g ref="char:EOLhyphen"/>ſurd,
+<pb n="101" facs="tcp:61675:57"/>as <hi>Heb.</hi> 9.27. <hi>Job</hi> 16.22. 2 <hi>Sam.</hi> 12.23.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p n="1">1. The ſaying of <hi>Heb.</hi> 9.29. that it may rightly be underſtood, we muſt di<g ref="char:EOLhyphen"/>ſtinguiſh, 1. betwixt the term [Man] largely taken, for the Soul, in what ſtate or condition ſoever it be, and more ſtrictly for the Soul united with the body made out of the earth. 2. Be<g ref="char:EOLhyphen"/>twixt univerſal and particu<g ref="char:EOLhyphen"/>lar judgment. <hi>Paul</hi> there<g ref="char:EOLhyphen"/>fore is thus to be unfolded: that whatſoever Soul is uni<g ref="char:EOLhyphen"/>ted
+<pb n="102" facs="tcp:61675:58"/>with its earthly vehicle, it is appointed to it, Once to be diſſolved from this ve<g ref="char:EOLhyphen"/>hicle, and then it muſt ſtand before a particular judg<g ref="char:EOLhyphen"/>ment, where the Divine Juſtice inquireth whether he hath ſo lived as that he is to return to his former ſtate, or condition, or not; For the univerſal judgment follow<g ref="char:EOLhyphen"/>eth not upon the deaths of particular men.</p>
+                  <p n="2">2. As to what is ſaid in <hi>Job</hi> 16.22. it is anſwered that that is particular, and ſpeaks only of the Death of
+<pb n="103" facs="tcp:61675:58"/>
+                     <hi>Job,</hi> animadverted in him<g ref="char:EOLhyphen"/>ſelf, that the end of his vital aptitude to a terreſtrial ve<g ref="char:EOLhyphen"/>hicle did draw near; there<g ref="char:EOLhyphen"/>fore as an Holy man, there was no need for him to fear a return to this earthly tabernacle: Now from a par<g ref="char:EOLhyphen"/>ticular to an univerſal, the Conſequence is never good.</p>
+                  <p n="3">3. The argument out of 2 <hi>Sam.</hi> 12.23. doth in like manner labour under a fal<g ref="char:EOLhyphen"/>lacy (called in Logick) an argument from what is ſaid limitedly, to what is ſaid ſimply. For it was a
+<pb n="104" facs="tcp:61675:59"/>particular caſe, that the Soul of <hi>David</hi>'s young Son was not ſo to return into an earthly vehicle, ſo as again to become the Son of <hi>David,</hi> and in the very daies of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſhould return unto him: yet from thence we may not argue univerſally.</p>
+               </div>
+               <div type="content">
+                  <p n="10">10. From this Hypothe<g ref="char:EOLhyphen"/>ſis of Praeexiſtency it fol<g ref="char:EOLhyphen"/>lows, That the Heavenly glory of the life to come is unconſtant, and may be loſt. For if Souls can fall down from their former glory, what hinders but
+<pb n="105" facs="tcp:61675:59"/>that they alſo can fall from that which is to come?</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The promiſes in the Holy Scriptures do hin<g ref="char:EOLhyphen"/>der, in which an in<g ref="char:EOLhyphen"/>corruptible Crown is pro<g ref="char:EOLhyphen"/>miſed to the faithful for a ſpecial reward, 1 <hi>Cor.</hi> 9.25. and that which never will fade away, 1 <hi>Pet.</hi> 5.4. Whence it is that <hi>Paul</hi> teſtifies, that we ſhall riſe again in incorruption, 1 <hi>Cor.</hi> 15.42.52. And <hi>this corruptible muſt put on in<g ref="char:EOLhyphen"/>corruption, and this mortal,
+<pb n="106" facs="tcp:61675:60"/>immortality,</hi> verſ. 53. that Death may be ſwallowed up in victory, <hi>verſ.</hi> 54.55. together with Sin, the ſting thereof, <hi>Hoſea</hi> 13.14.</p>
+               </div>
+               <div type="content">
+                  <p n="11">11. From this Hypothe<g ref="char:EOLhyphen"/>ſis it follows, that divers Souls may enter into one body, becauſe they are ſaid to want the uſe of reaſon and ſenſe, nor actually to have any but a plaſtick faculty, which cannot diſcern, whether any other Soul is entred in already, or not.</p>
+               </div>
+               <div type="answer">
+                  <pb n="107" facs="tcp:61675:60"/>
+                  <head>Anſwer.</head>
+                  <p>We muſt diſtingiſh be<g ref="char:EOLhyphen"/>twixt a formative entrance, and that which is not for<g ref="char:EOLhyphen"/>mative: the firſt is when the vital centre of the Soul ob<g ref="char:EOLhyphen"/>taineth its place in that point of matter, in which the ſpirit of the Univerſe hath already determined the primary ſeat of the ſoul: Although therefore a thou<g ref="char:EOLhyphen"/>ſand Souls ſhould enter to<g ref="char:EOLhyphen"/>gether into one material body, yet only one a<g ref="char:EOLhyphen"/>mongſt them all could obtain the formative in<g ref="char:EOLhyphen"/>greſs,
+<pb n="108" facs="tcp:61675:61"/>
+                     <hi>viz.</hi> ſuch a one as whoſe vital point ſhould poſſeſs or occupy the pri<g ref="char:EOLhyphen"/>mary point of the matter, which ſeeing it is indiviſi<g ref="char:EOLhyphen"/>ble, cannot be obtained by more than one: nor can it poſſibly be ſaid, that more or many can together poſ<g ref="char:EOLhyphen"/>ſeſs one and the ſame point, or, be homocentrick: for ſhould it be ſo, that would come to paſs either of pur<g ref="char:EOLhyphen"/>poſe, or by chance; the firſt cannot be, becauſe the uſe of Reaſon and Senſe is abſent; nor can the other be, becauſe the matter of
+<pb n="109" facs="tcp:61675:61"/>the vehicles which are not to be laid aſide without a reaſon or cauſe, doth hin<g ref="char:EOLhyphen"/>der; in which notwith<g ref="char:EOLhyphen"/>ſtanding that this homocen<g ref="char:EOLhyphen"/>tricity be allowed, pene<g ref="char:EOLhyphen"/>tration of dimenſions can<g ref="char:EOLhyphen"/>not be avoided.</p>
+               </div>
+               <div type="content">
+                  <p n="12">12. From this Hypothe<g ref="char:EOLhyphen"/>ſis it will follow, that the other Planets alſo are to be inhabited by men: Becauſe that ſome of them being nearer to that place of hap<g ref="char:EOLhyphen"/>pineſs, from whence theſe Souls are fallen down, are greater than this earthly Globe.</p>
+               </div>
+               <div type="answer">
+                  <pb n="110" facs="tcp:61675:62"/>
+                  <head>Anſwer.</head>
+                  <p>The conſequence is de<g ref="char:EOLhyphen"/>nyed, becauſe that there will be a want of ſeminal matter duely prepared. For God placed <hi>Adam</hi> in this Globe of Earth, as the firſt preparer of ſuch matter; out of the bounds of which men from thenceforth will not be.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="111" facs="tcp:61675:62"/>
+               <head>CHAP. VIII. <hi>Containing the Argu<g ref="char:EOLhyphen"/>ments of the adverſe part, which they take from holy Scripture.</hi>
+               </head>
+               <div type="content">
+                  <p n="1">1. THe firſt place is out of <hi>Geneſis</hi> 1. verſ. 28. thus: Whoever by the power of Gods command,
+<pb n="112" facs="tcp:61675:63"/>
+                     <hi>Increaſe and multiply,</hi> do multiply themſelves according to their kind, they no leſs propagate themſelves as in re<g ref="char:EOLhyphen"/>ſpect of Soul as well as of body: becauſe to the con<g ref="char:EOLhyphen"/>ſtitution of the ſpecies or kind of things animate, there as much belongeth a Soul as a body: But men by vertue of Gods com<g ref="char:EOLhyphen"/>mand, do multiply them<g ref="char:EOLhyphen"/>ſelves according to their ſpecies or kind; There<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi> and by conſe<g ref="char:EOLhyphen"/>quence, Souls do not praeex<g ref="char:EOLhyphen"/>iſt.</p>
+               </div>
+               <div type="answer">
+                  <pb n="113" facs="tcp:61675:63"/>
+                  <head>Anſwer.</head>
+                  <p>We allow the whole Argument, but deny the conſequence to the conclu<g ref="char:EOLhyphen"/>ſion: For men can propa<g ref="char:EOLhyphen"/>gate themſelves alſo as to Soul, though the Soul be not taken from out of their ſubſtance; for a man whilſt he generateth, prepareth nothing but matter, con<g ref="char:EOLhyphen"/>venient to the introducing of a Soul; and ſo he is a cauſe without which the effect cannot be produced, by reaſon of the introduction of Souls: juſt as he who pre<g ref="char:EOLhyphen"/>pares
+<pb n="114" facs="tcp:61675:64"/>matter or fewel for the fire, is the cauſe with<g ref="char:EOLhyphen"/>out which the fire cannot be introduced, and thus al<g ref="char:EOLhyphen"/>ſo he multiplieth fires, which notwithſtanding come from without: thus alſo magnetical bodies or Loadſtones can by rubbing only multiply themſelves, if, <hi>viz.</hi> they be rubbed upon Iron, although the ſubtile matter which combineth therewith cometh from without: 2. Theſe things being thus premiſed in a humane manner, we an<g ref="char:EOLhyphen"/>ſwer to the minor propoſi<g ref="char:EOLhyphen"/>tion
+<pb n="115" facs="tcp:61675:64"/>by denying it, for in Holy Writ, is no ſuch ad<g ref="char:EOLhyphen"/>dition, that man was to multiply according to his ſpecies or kind; but it is nakedly put thus: <hi>increaſe and multiply,</hi> which are in<g ref="char:EOLhyphen"/>different phraſes without all determination of the princi<g ref="char:EOLhyphen"/>pal efficient cauſe.</p>
+               </div>
+               <div type="content">
+                  <p n="2">2. From <hi>Gen.</hi> 5. verſ. 3. If <hi>Adam</hi> begat a Son according to his own image &amp; likeneſs, it follows then that his Son was alſo begotten by him as to his Soul: But the firſt is true, therefore alſo is the lat<g ref="char:EOLhyphen"/>ter ſo.</p>
+               </div>
+               <div type="answer">
+                  <pb n="116" facs="tcp:61675:65"/>
+                  <head>Anſwer.</head>
+                  <p>We deny the antecedent: becauſe likeneſs may be un<g ref="char:EOLhyphen"/>derſtood to be external, by reaſon of the body, to the corruption of which the Soul was alſo ſubjected, al<g ref="char:EOLhyphen"/>though it came into it from without.</p>
+               </div>
+               <div type="content">
+                  <p n="3">3. From <hi>Gen.</hi> 46. verſ. 26. whatſoever went forth from out of the loyns of the Parent, that did not prae<g ref="char:EOLhyphen"/>exiſt; but the Souls of the ſons, <hi>&amp;c.</hi> Therefore, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <pb n="117" facs="tcp:61675:65"/>
+                  <head>Anſwer.</head>
+                  <p>In this Saying is a Synec<g ref="char:EOLhyphen"/>doche of one part for ano<g ref="char:EOLhyphen"/>ther; where the Soul is taken for the body, as the Scripture alſo ſpeaketh elſe<g ref="char:EOLhyphen"/>where: as <hi>Pſal.</hi> 16.10. <hi>He will not leave my ſoul in the Grave,</hi> &amp;c. 2. In this alſo may be ſaid to be a metony<g ref="char:EOLhyphen"/>my of the form for the thing formed, of the Soul for the thing animated. 3. If the acception were pro<g ref="char:EOLhyphen"/>per, this abſurdity follows: that the Soul is propagated from the Father only, the
+<pb n="118" facs="tcp:61675:66"/>Mother contributing no<g ref="char:EOLhyphen"/>thing</p>
+               </div>
+               <div type="content">
+                  <p n="4">4. From <hi>Job</hi> 14.4. <hi>Who can give a clean thing out of that that is unclean?</hi> whence it followeth that from the impure Soul of the Father, muſt proceed or come forth an impure Soul of the ſon.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The particle [From] doth not always ſignifie the prin<g ref="char:EOLhyphen"/>pal efficient cauſe, but often times alſo the inſtrumental cauſe, or that cauſe without which the effect cannot be
+<pb n="119" facs="tcp:61675:66"/>produced, and ſo is it to be underſtood in this place.</p>
+               </div>
+               <div type="content">
+                  <p n="5">5. From <hi>Pſal.</hi> 51. verſ. 5. <hi>Behold I was ſhapen in iniquity, and in ſin did my mother con<g ref="char:EOLhyphen"/>ceive me.</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Text ſpeaketh of the iniquity and ſin not of the Infant, but of the genera<g ref="char:EOLhyphen"/>ting Parents; but if the ſin were to be underſtood of the infant; this is then the ſenſe or meaning: Behold my Soul being already in in-iniquity from a preceding
+<pb n="120" facs="tcp:61675:67"/>fall, is received into the Womb of my Mother.</p>
+               </div>
+               <div type="content">
+                  <p n="6">6. <hi>That which is born of the Fleſh, is Fleſh,</hi> John 3.6.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The word or term [to be born] importeth no eſſential dependence on him who begetteth: for the Soul, even already, before its na<g ref="char:EOLhyphen"/>tivity, being carnal, that is, having gained a vital apti<g ref="char:EOLhyphen"/>tude unto Fleſh, coming forth from carnal Parents, is called Fleſh, even as im<g ref="char:EOLhyphen"/>pure water derived through
+<pb n="121" facs="tcp:61675:67"/>impure pipes, when it breaks forth, is ſo much the more impure.</p>
+               </div>
+               <div type="content">
+                  <p n="7">7. <hi>Rom.</hi> 5.12. <hi>As by one man ſin entred into the world, and by ſin Death, ſo Death is paſſed unto all men, becauſe all have ſinned;</hi> from this it fol<g ref="char:EOLhyphen"/>lows that before <hi>Adam</hi> there was no ſin.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <hi>Adam</hi> in the Allegorical Hiſtory of <hi>Moſes,</hi> is a figure of all mankind, and this very Text doth ſhew that death is paſſed unto all men,
+<pb n="122" facs="tcp:61675:68"/>not upon that account, that <hi>Adam</hi> only hath ſinned, but in as much as every ſingle man hath ſinned: The Particle [One] ſignifies the ſame as [Firſt] doth, as in <hi>Mar.</hi> 16.2. <hi>Luke</hi> 24.1. <hi>John</hi> 20.1. <hi>Acts</hi> 20.7, 8. <hi>Rom.</hi> 9.11. it is ſaid that the Children, who were not yet born, had done neither good nor evil; whence it is concluded, that Souls before this earthly life, had not committed ſin.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Not being as yet born,
+<pb n="123" facs="tcp:61675:68"/>are either ſuch as exiſt before the union of Soul and Body, or ſuch as exiſt in that union: the Text ſpeaks of theſe lat<g ref="char:EOLhyphen"/>ter, not of the former, be<g ref="char:EOLhyphen"/>cauſe firſt they are ex<g ref="char:EOLhyphen"/>preſly named Children. 2. The determinate time in which they had committed neither good nor evil is de<g ref="char:EOLhyphen"/>noted, <hi>viz.</hi> when the Lord ſaid, <hi>The Elder ſhall ſerve the Younger:</hi> which he then ſaid, when they were already alive, and the In<g ref="char:EOLhyphen"/>fants moved in the Womb: and ſo being not yet born they may be ſaid to have
+<pb n="124" facs="tcp:61675:69"/>committed neither good nor evil actually, although be<g ref="char:EOLhyphen"/>fore the union ſomewhat of a fall had preceded: and therefore the predicate is to be limited; they had done nothing of good or evil, <hi>viz.</hi> in the ſtate of the earthly union of Body and Soul.</p>
+               </div>
+               <div type="content">
+                  <p n="9">9. From 2 <hi>Cor.</hi> 5.10. They argue thus: If in the place where an account is to be rendred of all ſins, an ac<g ref="char:EOLhyphen"/>count is to be rendred of thoſe only which are proper to the body, as every one hath done, it followeth, that
+<pb n="125" facs="tcp:61675:69"/>without the body there is no ſin; But the former is true, and therefore alſo the latter.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Antecedent is deny<g ref="char:EOLhyphen"/>ed. 1. Becauſe in the Text is found no ſuch excluſive particle [Only]: but from the greater part, <hi>viz.</hi> the actual ſins, is the denomina<g ref="char:EOLhyphen"/>tion of the judgment made; therefore it may alſo be that that account muſt be gene<g ref="char:EOLhyphen"/>rally rendred of original ſin. 2. Granting, that an ac<g ref="char:EOLhyphen"/>count was not to be given of this ſin, yet it doth not
+<pb n="126" facs="tcp:61675:70"/>follow, that it was not com<g ref="char:EOLhyphen"/>mitted: becauſe (1.) it would have been oblitera<g ref="char:EOLhyphen"/>ted already by the general oblivion in the Soul. (2.) It ſhould have already ſuffered puniſhment for it, <hi>viz.</hi> its being thruſt down into this earthly Dungeon or Priſon.</p>
+               </div>
+               <div type="content">
+                  <p n="10">10. From <hi>Hebr.</hi> 7. v. 5.9, 10. <hi>Who paid Tythes in the loins of his Father, He, even as to his Soul, is in his Father:</hi> But, <hi>&amp;c.</hi> Therefore, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <pb n="127" facs="tcp:61675:70"/>
+                  <head>Anſwer.</head>
+                  <p>The Antecedent is deny<g ref="char:EOLhyphen"/>ed: for this phraſe, [to be in the loins of his Father,] ſignifieth nothing elſe than not to be as yet born, and yet to be in a poſſibility to be born: therefore ſuch as is the Nativity, ſuch alſo is the poſſibility or power of being to be born. Now the Nativity doth not admit of the concurrence of the Father, otherwiſe than as an inſtrumental cauſe to pre<g ref="char:EOLhyphen"/>pare the matter for the introduction of the Soul:
+<pb n="128" facs="tcp:61675:71"/>Therefore alſo the poſſibili<g ref="char:EOLhyphen"/>ty or power of being to be born ought thus to be under<g ref="char:EOLhyphen"/>ſtood.</p>
+               </div>
+               <div type="content">
+                  <p n="11">11. From <hi>Eccleſiaſt.</hi> 12.7. <hi>The Spirit returns to God who gave it:</hi> whence they thus argue. As the body is from the Earth, ſo the ſpirit is from God: and at the time of generation, duſt is given from the Earth, Therefore alſo at that time the Spirit is given from God.</p>
+               </div>
+               <div type="answer">
+                  <pb n="129" facs="tcp:61675:71"/>
+                  <head>Anſwer.</head>
+                  <p>We muſt diſtinguiſh be<g ref="char:EOLhyphen"/>tween a giving which is o<g ref="char:EOLhyphen"/>riginary, and that which is participative: this is meant in this place, but not that: For as although the body be taken out of the earth, yet its matter originally does not then at laſt begin; ſo, although the ſpirit be given from God at the time of ge<g ref="char:EOLhyphen"/>neration, <hi>viz.</hi> by an univer<g ref="char:EOLhyphen"/>ſal concurrence, yet it fol<g ref="char:EOLhyphen"/>loweth not that it then at length beginneth.</p>
+               </div>
+               <div type="content">
+                  <pb n="130" facs="tcp:61675:72"/>
+                  <p n="12">12. From <hi>Zach.</hi> 12.1. <hi>The Lord ſaith, who formeth the Spirit of man in the midſt of him:</hi> if therefore the ſpirit of man is formed within him, it did not praeexiſt.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>By [Spirit] in this place is to be underſtood the ani<g ref="char:EOLhyphen"/>mal Spirit, as often it is elſewhere, <hi>Gen.</hi> 6.17. ch. 7.15. compare the 15. verſe, importing the ſame ſenſe almoſt of <hi>Pſalm.</hi> 33. even as alſo is the deter<g ref="char:EOLhyphen"/>mination in the midſt of
+<pb n="131" facs="tcp:61675:72"/>him, <hi>viz.</hi> it denoteth it to be in his bowels: whence it is that it ſo follows not in reſpect to the Soul.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61675:73"/>
+            <pb facs="tcp:61675:73"/>
+         </div>
+      </body>
+   </text>
+</TEI>
